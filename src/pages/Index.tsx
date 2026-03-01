@@ -64,7 +64,7 @@ const Index = () => {
             <span className="text-xs font-medium text-primary">Excel Sheet Matcher</span>
           </div>
           <h1 className="text-4xl md:text-5xl font-heading font-bold text-foreground tracking-tight">
-            Compare & Match
+            Bangladesh Price Bond
           </h1>
           <p className="max-w-md text-muted-foreground">
             Upload two Excel sheets, find matching numbers instantly, and download the results.
